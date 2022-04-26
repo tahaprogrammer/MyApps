@@ -24,10 +24,10 @@
 
 	"URL": "https://www.zales.com/",
 
-	"isAdsActivated1": true,
-	"isAdsActivated2": true,
+	"isAdsActivated1": false,
+	"isAdsActivated2": false,
 
-	"isInReview": true,
+	"isInReview": false,
 
 
 
