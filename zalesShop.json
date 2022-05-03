@@ -8,10 +8,10 @@
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 
-	"APPLOVIN_BANNER": "77a9e98624709e57",
-	"APPLOVIN_INTERSTITIAL": "efa4e89b9e54fb60",
+	"APPLOVIN_BANNER": "981010424252ad16",
+	"APPLOVIN_INTERSTITIAL": "43609aefb6fb8150",
 
-	"whichAds": 0,
+	"whichAds": 2,
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -24,8 +24,8 @@
 
 	"URL": "https://www.zales.com/",
 
-	"isAdsActivated1": false,
-	"isAdsActivated2": false,
+	"isAdsActivated1": true,
+	"isAdsActivated2": true,
 
 	"isInReview": false,
 
