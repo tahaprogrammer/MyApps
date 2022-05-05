@@ -24,10 +24,10 @@
 
 	"URL": "https://www.tkmaxx.com/uk/en/",
 
-	"isAdsActivated1": true,
-	"isAdsActivated2": true,
+	"isAdsActivated1": false,
+	"isAdsActivated2": false,
 
-	"isInReview": false,
+	"isInReview": true,
 
 
 
