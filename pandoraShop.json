@@ -22,12 +22,12 @@
 	"BUTTON_NAME_1": "Begin Now",
 	"BUTTON_NAME_2": "Go Show",
 
-	"URL": "https://www.mohito.com/",
+	"URL": "https://www.pandora.net/",
 
 	"isAdsActivated1": true,
 	"isAdsActivated2": true,
 
-	"isInReview": false,
+	"isInReview": true,
 
 
 
