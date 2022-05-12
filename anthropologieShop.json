@@ -2,9 +2,9 @@
 
 	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
 	"admob_inter": "ca-app-pub-3940256099941033173712",
-	"admob_native":"ca-app-pub-3940256099942544/2247696110",
+	"admob_native":"ca-app-pub-39402560994/2247696110",
 
-	"APP_KEY": "14670f8f1",
+	"APP_KEY": "10f8f1",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -12,7 +12,7 @@
 	"APPLOVIN_BANNER": "",
 	"APPLOVIN_INTERSTITIAL": "2fe87923f34de058",
 
-	"whichAds": 1,
+	"whichAds": 0,
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
