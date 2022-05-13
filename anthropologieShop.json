@@ -2,6 +2,7 @@
 
 	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
 	"admob_inter": "ca-app-pub-3940256099941033173712",
+	"admob_native": "123",
 
 	"APP_KEY": "1f8f1",
 	"BANNER_PLACEMENT": "DefaultBanner",
