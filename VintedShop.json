@@ -8,10 +8,10 @@
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 
-	"APPLOVIN_BANNER": "2ad834edad8b24b8",
-	"APPLOVIN_INTERSTITIAL": "628a17b5c5ac20a5",
+	"APPLOVIN_BANNER": "5831a901fd9d0393",
+	"APPLOVIN_INTERSTITIAL": "d9c39e1aa4e021e5",
 
-	"whichAds": 0,
+	"whichAds": 1,
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -24,8 +24,8 @@
 
 	"URL": "https://www.vinted.fr/",
 
-	"isAdsActivated1": false,
-	"isAdsActivated2": false,
+	"isAdsActivated1": true,
+	"isAdsActivated2": true,
 
 	"isInReview": false,
 
