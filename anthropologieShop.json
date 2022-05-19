@@ -1,6 +1,6 @@
 {
 
-	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+	"admob_banner": "ca-app-pub-3940256042544/6300978111",
 	"admob_inter": "ca-app-pub-3940256099941033173712",
 	"admob_native": "123",
 
@@ -9,8 +9,8 @@
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 
-	"APPLOVIN_BANNER": "2ad834edad8b24b8",
-	"APPLOVIN_INTERSTITIAL": "628a17b5c5ac20a5",
+	"APPLOVIN_BANNER": "2ad834ad8b24b8",
+	"APPLOVIN_INTERSTITIAL": "628a1c5ac20a5",
 
 	"whichAds": 0,
 
@@ -23,12 +23,12 @@
 	"BUTTON_NAME_1": "Begin Now",
 	"BUTTON_NAME_2": "Go Show",
 
-	"URL": "https://www.vinted.fr/",
+	"URL": "https://www.anthropologie.com/",
 
 	"isAdsActivated1": true,
 	"isAdsActivated2": true,
 
-	"isInReview": true,
+	"isInReview": false,
 
 
 
