@@ -25,8 +25,8 @@
 
 	"URL": "https://www.kay.com/",
 
-	"isAdsActivated1": false,
-	"isAdsActivated2": false,
+	"isAdsActivated1": true,
+	"isAdsActivated2": true,
 
 	"isInReview": false,
 
