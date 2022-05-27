@@ -23,12 +23,12 @@
 	"BUTTON_NAME_1": "Begin Now",
 	"BUTTON_NAME_2": "Go Show",
 
-	"URL": "https://www.kay.com/",
+	"URL": "https://www.converse.com/",
 
 	"isAdsActivated1": false,
 	"isAdsActivated2": false,
 
-	"isInReview": true,
+	"isInReview": false,
 
 
 
