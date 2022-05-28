@@ -1,7 +1,7 @@
 {
 
-	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
-	"admob_inter": "ca-app-pub-3940256099941033173712",
+	"admob_banner": "ca-app-pub-6168482205267254/5743045951",
+	"admob_inter": "ca-app-pub-6168482205267254/3300468020",
 
 	"APP_KEY": "14f8f1",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -11,7 +11,7 @@
 	"APPLOVIN_BANNER": "e09eacf3b41f9299",
 	"APPLOVIN_INTERSTITIAL": "8be7d9ac4d367589",
 
-	"whichAds": 2,
+	"whichAds": 0,
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -24,7 +24,7 @@
 
 	"URL": "https://www.maisonsdumonde.com/",
 
-	"isAdsActivated1": true,
+	"isAdsActivated1": false,
 	"isAdsActivated2": true,
 
 	"isInReview": false,
