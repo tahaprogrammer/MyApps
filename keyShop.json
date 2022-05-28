@@ -12,7 +12,7 @@
 	"APPLOVIN_BANNER": "2ad834ad8b24b8",
 	"APPLOVIN_INTERSTITIAL": "b0f2816ca1c9a72e",
 
-	"whichAds": 0,
+	"whichAds": 1,
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -28,7 +28,7 @@
 	"isAdsActivated1": true,
 	"isAdsActivated2": true,
 
-	"isInReview": false,
+	"isInReview": true,
 
 
 
