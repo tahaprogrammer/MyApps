@@ -11,7 +11,7 @@
 	"APPLOVIN_BANNER": "6188a279a4ba41e3",
 	"APPLOVIN_INTERSTITIAL": "f0ab4211a8d4ddcd",
 
-	"whichAds": 0,
+	"whichAds": 2,
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -24,7 +24,7 @@
 
 	"URL": "https://www.reserved.com/",
 
-	"isAdsActivated1": false,
+	"isAdsActivated1": true,
 	"isAdsActivated2": true,
 
 	"isInReview": false,
