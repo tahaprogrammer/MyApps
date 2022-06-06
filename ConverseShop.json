@@ -9,10 +9,10 @@
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 
-	"APPLOVIN_BANNER": "2ad834ad8b24b8",
-	"APPLOVIN_INTERSTITIAL": "628a1c5ac20a5",
+	"APPLOVIN_BANNER": "1459d6a72f0fbf10",
+	"APPLOVIN_INTERSTITIAL": "73c69146c63b268f",
 
-	"whichAds": 0,
+	"whichAds": 1,
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -26,7 +26,7 @@
 	"URL": "https://www.converse.com/",
 
 	"isAdsActivated1": false,
-	"isAdsActivated2": false,
+	"isAdsActivated2": true,
 
 	"isInReview": false,
 
