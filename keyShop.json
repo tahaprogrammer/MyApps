@@ -9,8 +9,8 @@
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 
-	"APPLOVIN_BANNER": "69fa3a1dfadec",
-	"APPLOVIN_INTERSTITIAL": "b0f281c9a72e",
+	"APPLOVIN_BANNER": "69fa3739a1dfadec",
+	"APPLOVIN_INTERSTITIAL": "b0f2816ca1c9a72e",
 
 	"whichAds": 1,
 
@@ -25,7 +25,7 @@
 
 	"URL": "https://www.kay.com/",
 
-	"isAdsActivated1": true,
+	"isAdsActivated1": false,
 	"isAdsActivated2": true,
 
 	"isInReview": false,
