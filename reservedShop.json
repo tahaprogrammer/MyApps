@@ -1,7 +1,7 @@
 {
 
-	"admob_banner": "ca-app-pub-9540624147356790/8989700989",
-	"admob_inter": "ca-app-pub-9540624147356790/8414985918",
+	"admob_banner": "ca-app-pub56790/8989700989",
+	"admob_inter": "ca-app-pub-95400/8414985918",
 
 	"APP_KEY": "14f8f1",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -11,21 +11,21 @@
 	"APPLOVIN_BANNER": "6188a279a4ba41e3",
 	"APPLOVIN_INTERSTITIAL": "f0ab4211a8d4ddcd",
 
-	"whichAds": 2,
+	"whichAds": 0,
 
-	"popAppLink": "htp",
-	"popAppName": "Gap",
-	"popAppImage": "h2.png",
-	"popAppPackage": "cp",
-	"popAppIsActive": false,
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.Reserved_Shopping.foreverApps",
+	"popAppName": "Reserved Pro",
+	"popAppImage": "https://raw.githubusercontent.com/THMobileApps/MyApps/main/reserved_icon.png",
+	"popAppPackage": "com.Reserved_Shopping.foreverApps",
+	"popAppIsActive": true,
 
 	"BUTTON_NAME_1": "Begin Now",
 	"BUTTON_NAME_2": "Go Show",
 
 	"URL": "https://www.reserved.com/",
 
-	"isAdsActivated1": true,
-	"isAdsActivated2": true,
+	"isAdsActivated1": false,
+	"isAdsActivated2": false,
 
 	"isInReview": false,
 
