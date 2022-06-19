@@ -1,8 +1,8 @@
 {
 
-	"admob_banner": "ca-app-pub-61684822052672549664182",
-	"admob_inter": "ca-app-pub-3940256099941033173712",
-	"admob_native": "ca-app-pub-61684822052672552143390",
+	"admob_banner": "ca-app-pub-61549664182",
+	"admob_inter": "ca-app-pub-394033173712",
+	"admob_native": "ca-app-pub-6052672552143390",
 
 	"APP_KEY": "1f8f1",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -28,7 +28,7 @@
 	"isAdsActivated1": false,
 	"isAdsActivated2": false,
 
-	"isInReview": false,
+	"isInReview": true,
 
 
 
