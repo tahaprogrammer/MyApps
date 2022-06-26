@@ -1,7 +1,7 @@
 {
 
 	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
-	"admob_inter": "ca-app-pub-3940256099941033173712",
+	"admob_inter":  "ca-app-pub-3940256099942544/1033173712",
 
 	"APP_KEY": "14f8f1",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -22,12 +22,12 @@
 	"BUTTON_NAME_1": "Begin Now",
 	"BUTTON_NAME_2": "Go Show",
 
-	"URL": "https://www.vinted.fr/",
+	"URL": "https://www.reserved.com/",
 
-	"isAdsActivated1": true,
-	"isAdsActivated2": true,
+	"isAdsActivated1": false,
+	"isAdsActivated2": false,
 
-	"isInReview": true,
+	"isInReview": false,
 
 
 
