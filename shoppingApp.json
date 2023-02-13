@@ -1,14 +1,20 @@
 {
     "admob_banner": "ca-app-pub-3940256099942544/6300978111",
     "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-    "APP_KEY": "12f2d4085",
+
+    "APP_KEY": "18a7460d5",
     "BANNER_PLACEMENT": "DefaultBanner",
     "INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
     "APPLOVIN_BANNER": "1459d6a72f0fbf10",
     "APPLOVIN_INTERSTITIAL": "73c69146c63b268f",
+
     "whichAds": 1,
+
     "URL": "https://www.maisonsdumonde.com/",
+
     "isInReview": false,
+    
     "products": [
         {
             "title": "Colorful Flame Hoodie 3D Print Sweatshirt Men",
