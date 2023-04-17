@@ -1,6 +1,6 @@
 {
-    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-    "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+    "admob_banner": "a-app-pub-3940256099942544/6300978111",
+    "admob_inter": "a-app-pub-3940256099942544/1033173712",
 
     "APP_KEY": "18a7460d5",
     "BANNER_PLACEMENT": "DefaultBanner",
@@ -9,11 +9,11 @@
     "APPLOVIN_BANNER": "1459d6a72f0fbf10",
     "APPLOVIN_INTERSTITIAL": "73c69146c63b268f",
 
-    "whichAds": 1,
+    "whichAds": 0,
 
     "URL": "https://www.maisonsdumonde.com/",
 
-    "isInReview": false,
+    "isInReview": true,
     
     "products": [
         {
