@@ -1,11 +1,11 @@
 {
-	"admob_banner": "a-app-pub-3940256099942544/6300978111",
-	"admob_inter": "a-app-pub-3940256099942544/1033173712",
+	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
 	"admob_app_open":"ca-app-pub-3940256099942544/3419835294",
 
 	"APP_KEY": "1c8de8f2d",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"whichAds": 1
+	"whichAds": 0
 }
